@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philologischeun00maasgoog/philologischeun00maasgoog_0009.png"; bbox 0 0 3104 4852; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 674 623 1016 802">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 674 623 1016 802">
+     <span class='ocr_line' id='line_1_1' title="bbox 674 623 1016 703; baseline 0.056 -22"><span class='ocrx_word' id='word_1_1' title='bbox 674 623 1016 703; x_wconf 66' lang='lat' dir='ltr'>THENEwYoRK</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 677 707 1015 802; baseline 0.071 -23"><span class='ocrx_word' id='word_1_2' title='bbox 677 707 781 786; x_wconf 58' lang='lat' dir='ltr'>pm</span> <span class='ocrx_word' id='word_1_3' title='bbox 801 719 819 770; x_wconf 58' lang='lat'><em>⁶</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 833 724 1015 802; x_wconf 59' lang='lat' dir='ltr'>mmm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 745 821 964 952">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 745 821 964 952">
+     <span class='ocr_line' id='line_1_3' title="bbox 745 821 964 952; baseline 0.11 -24"><span class='ocrx_word' id='word_1_5' title='bbox 745 821 964 952; x_wconf 69' lang='lat'>73694</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 715 989 974 1034">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 715 989 974 1034">
+     <span class='ocr_line' id='line_1_4' title="bbox 715 989 974 1034; baseline 0.066 -17"><span class='ocrx_word' id='word_1_6' title='bbox 715 989 807 1032; x_wconf 67' lang='lat' dir='ltr'>auron.</span> <span class='ocrx_word' id='word_1_7' title='bbox 823 991 907 1028; x_wconf 61' lang='lat' dir='ltr'>mox</span> <span class='ocrx_word' id='word_1_8' title='bbox 922 995 974 1034; x_wconf 83' lang='grc' dir='ltr'>ΑΝῦ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1556 4852">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1556 4852">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1556 4852; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1556 4852; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
