@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./philologischeun00maasgoog/philologischeun00maasgoog_0008.png"; bbox 0 0 3104 4852; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 470 499 1133 702">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 470 499 1133 702">
+     <span class='ocr_line' id='line_1_1' title="bbox 470 499 1133 702; baseline -0.003 -98"><span class='ocrx_word' id='word_1_1' title='bbox 470 499 1133 702; x_wconf 53' lang='lat' dir='ltr'><strong>³PEILOLOGISOHE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 70 793 1414 1054">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 70 793 1414 1054">
+     <span class='ocr_line' id='line_1_2' title="bbox 70 793 1414 1054; baseline 0.001 -89"><span class='ocrx_word' id='word_1_2' title='bbox 70 1043 75 1054; x_wconf 15' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_3' title='bbox 171 793 1414 968; x_wconf 72' lang='lat' dir='ltr'>UNTERSUOHUNGEN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 248 1691 1351 1766">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 248 1691 1351 1766">
+     <span class='ocr_line' id='line_1_3' title="bbox 248 1691 1351 1766; baseline -0.006 0"><span class='ocrx_word' id='word_1_4' title='bbox 248 1700 291 1765; x_wconf 78' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 319 1693 561 1766; x_wconf 80' lang='lat' dir='ltr'><strong>KIESSLING</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 582 1710 657 1762; x_wconf 78' lang='lat' dir='ltr'><strong>UNI)</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 676 1695 709 1762; x_wconf 87' lang='lat' dir='ltr'><strong>U.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 730 1717 756 1759; x_wconf 88' lang='lat' dir='ltr'><strong>v.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 775 1691 1351 1763; x_wconf 74' lang='lat' dir='ltr'><strong>WILAMOWITz-MOELLENDORFF.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 745 2126 904 2136">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 745 2126 904 2136">
+     <span class='ocr_line' id='line_1_4' title="bbox 745 2126 904 2136; baseline -0.019 0"><span class='ocrx_word' id='word_1_10' title='bbox 745 2126 904 2136; x_wconf 76' lang='grc'><em>,..-.--</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 544 2519 1115 2822">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 544 2519 1115 2822">
+     <span class='ocr_line' id='line_1_5' title="bbox 809 2519 843 2600; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 809 2519 843 2600; x_wconf 86' lang='lat' dir='ltr'><strong>L</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 544 2719 1115 2822; baseline 0 -4"><span class='ocrx_word' id='word_1_12' title='bbox 544 2723 674 2822; x_wconf 84' lang='lat' dir='ltr'><strong>AUS</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 711 2719 1115 2820; x_wconf 87' lang='lat' dir='ltr'><strong>KYDATHEN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1556 4852">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1556 4852">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1556 4852; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1556 4852; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
